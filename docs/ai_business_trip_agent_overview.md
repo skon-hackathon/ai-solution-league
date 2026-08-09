@@ -3,7 +3,7 @@
 ## 1. 과제 개요
 
 ### 과제명(가칭)
-**MissionReady AI**  
+**Find Your Partner**  
 **성공적인 출장을 준비하고 실행하는 AI Business Trip Agent**
 
 ### 한 줄 정의
