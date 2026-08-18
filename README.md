@@ -1,4 +1,4 @@
-# ✈️ Find Your Partner
+# ✈️ Find Your Partners
 
 > **출장 목적을 이해하고, 필요한 행동을 스스로 판단·실행하며, 출장 성공에 필요한 정보와 전략까지 준비하는 AI Business Trip Agent**
 
@@ -6,7 +6,7 @@
 
 ## 1. Project Overview
 
-**Find Your Partner**는 단순히 출장 예약을 자동화하는 서비스가 아닙니다.
+**Find Your Partners**는 단순히 출장 예약을 자동화하는 서비스가 아닙니다.
 
 사용자가 **출장 기간, 장소, 목적**을 자연어로 입력하면 AI Agent가 출장 상황을 이해하고 다음과 같은 업무를 스스로 판단합니다.
 
@@ -69,7 +69,7 @@
 - 박람회 출장 → 참가기업 및 Partnership Opportunity 분석 필요
 - 고객 미팅 → 고객 최근 동향 및 관심사 분석 필요
 
-Find Your Partner는 이러한 **판단 + 실행 + 조사 + 자료 작성**을 하나의 Agent Workflow로 통합합니다.
+Find Your Partners는 이러한 **판단 + 실행 + 조사 + 자료 작성**을 하나의 Agent Workflow로 통합합니다.
 
 ---
 
@@ -115,7 +115,7 @@ Find Your Partner는 이러한 **판단 + 실행 + 조사 + 자료 작성**을 �
 └──────────────────────────────┘
 ```
 
-Find Your Partner의 핵심은 **모든 기능을 무조건 실행하지 않는 것**입니다.
+Find Your Partners의 핵심은 **모든 기능을 무조건 실행하지 않는 것**입니다.
 
 AI가 출장 목적과 상황을 분석하여  
 **필요한 업무만 선택하고 실행합니다.**
@@ -259,7 +259,7 @@ AI Agent는 판단 결과를 바탕으로 필요한 Tool/API를 호출합니다.
 
 # 7. ⭐ 핵심 차별화 기능 — 출장 준비자료 자동 생성
 
-Find Your Partner의 가장 중요한 차별점입니다.
+Find Your Partners의 가장 중요한 차별점입니다.
 
 AI는 사용자가 별도로
 
@@ -660,9 +660,9 @@ Report Tool
 
 ---
 
-# 15. Existing System vs Find Your Partner
+# 15. Existing System vs Find Your Partners
 
-| 기존 출장 시스템 | Find Your Partner |
+| 기존 출장 시스템 | Find Your Partners |
 |---|---|
 | 사용자가 업무를 판단 | **AI가 필요한 업무를 판단** |
 | 사용자가 교통수단 선택 | **AI가 최적 이동수단 판단** |
@@ -860,7 +860,7 @@ InterBattery Business Opportunity Brief 생성 완료
 출장
 ```
 
-Find Your Partner:
+Find Your Partners:
 
 ```text
 출장 목적 이해
@@ -892,5 +892,5 @@ Find Your Partner:
 
 ### **From Trip Preparation to Business Success**
 
-Find Your Partner는  
+Find Your Partners는  
 **단순한 출장 업무 자동화를 넘어 출장의 성과를 높이는 AI Business Trip Agent**를 목표로 합니다.
